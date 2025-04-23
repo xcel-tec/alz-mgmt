@@ -205,11 +205,11 @@ management_group_settings = {
       management_group_name = "management"
     }
     corp = {
-      subscription_id       = "91ab0aaf-b9dd-4082-a685-efbaaddf6cf2"
+      subscription_id       = "3375960d-1afd-4de7-af50-e441461450ab"
       management_group_name = "corp"
     }
     online = {
-      subscription_id       = "3375960d-1afd-4de7-af50-e441461450ab"
+      subscription_id       = "0aeb089f-f840-44a2-8a9b-27adbadc8f1d"
       management_group_name = "online"
     }
     sandbox = {
