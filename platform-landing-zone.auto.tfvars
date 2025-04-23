@@ -200,6 +200,23 @@ management_group_settings = {
       subscription_id       = "$${subscription_id_management}"
       management_group_name = "management"
     }
+    bootstrap = {
+      subscription_id       = "91ab0aaf-b9dd-4082-a685-efbaaddf6cf2"
+      management_group_name = "management"
+    }
+    corp = {
+      subscription_id       = "91ab0aaf-b9dd-4082-a685-efbaaddf6cf2"
+      management_group_name = "corp"
+    }
+    online = {
+      subscription_id       = "3375960d-1afd-4de7-af50-e441461450ab"
+      management_group_name = "online"
+    }
+    sandbox = {
+      subscription_id       = "3bfe7a9b-9b6e-48c1-a883-a2b470de100b
+"
+      management_group_name = "sandbox"
+    }
   }
   policy_assignments_to_modify = {
     alz = {
