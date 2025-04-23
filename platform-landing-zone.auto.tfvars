@@ -213,8 +213,7 @@ management_group_settings = {
       management_group_name = "online"
     }
     sandbox = {
-      subscription_id       = "3bfe7a9b-9b6e-48c1-a883-a2b470de100b
-"
+      subscription_id       = "3bfe7a9b-9b6e-48c1-a883-a2b470de100b"
       management_group_name = "sandbox"
     }
   }
